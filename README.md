@@ -48,7 +48,7 @@ Make sure that your project is working - it does not make sense to deploy a brok
 
 Next, make sure that all changes to your code are committed to _main_ in your local repository.
 
-Although not necessary, go ahead and push the latest commit to _origin_:<br>`$ git push origin master`
+Although not necessary, go ahead and push the latest commit to _origin_:<br>`$ git push origin main`
 
 #### Create a `gh-pages` Branch
 
