@@ -71,19 +71,19 @@ Be sure to substitute **your GitHub user-name** for `<user-name>` and **your pro
 
 ## Updating your Application's Deployment
 
-Now that your repo has two branches, be sure to **continue development on the `master` branch**.
+Now that your repo has two branches, be sure to **continue development on the `main` branch**.
 
-`$ git checkout master` switches to the `master` branch.
+`$ git checkout master` switches to the `main` branch.
 
-When you have commits on `master` that you want to deploy, it's time to **merge** those commits into the `gh-pages` branch:
+When you have commits on `main` that you want to deploy, it's time to **merge** those commits into the `gh-pages` branch:
 
 - Checkout the `gh-pages` branch: `$ git checkout gh-pages`
-- Merge the commits from `master`: `$ git merge master`
+- Merge the commits from `main`: `$ git merge main`
 - Deploy the changes: `$ git push origin gh-pages`
 
 Now your deployed application is up to date!
 
-Be sure to switch back to the `master` branch!
+Be sure to switch back to the `main` branch!
 
 ## Troubleshooting
 
