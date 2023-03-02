@@ -65,8 +65,6 @@ All that's left to get the app deployed is to push the `gh-pages` branch to the 
 
 Your website should now be up and running at the following URL:<br>`https://<user-name>.github.io/<repo-name>/`
 
-If you deployed from your GitHub Enterprise account, the url will look like this:<br>`https://pages.git.generalassemb.ly/<user-name>/<repo-name>`
-
 Be sure to substitute **your GitHub user-name** for `<user-name>` and **your project's repo name** for `<repo-name>`.
 
 >Note: It might take up to 15 minutes for the app to be available.
